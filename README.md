@@ -11,5 +11,5 @@ Live site: https://www.homeoftheinnocents.org/
 
 ## Contributors
 
-* nick Peay
+* Nick Peay
 * Lance Swan
